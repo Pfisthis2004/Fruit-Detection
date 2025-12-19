@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['Quả táo', 'Quả chuối', 'Quả cherry', 'Quả nho', 'Quả chanh', 'Quả cam', 'Quả lê', 'Quả dâu tây','Không phải trái cây']
+
+roboflow:
+  workspace: fruits-cjt8j
+  project: fruits-detection-gfeiq
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fruits-cjt8j/fruits-detection-gfeiq/dataset/1
