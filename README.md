@@ -87,6 +87,6 @@ Train / Val / Test ratio: Defined manually in README.dataset.md
 ## 📸 Preview
 <img width="1487" height="905" alt="image" src="https://github.com/user-attachments/assets/17a72ad3-1276-4b8f-bc9f-875c476a6bf3" />
 
-##🧾 License
+## 🧾 License
 This project is licensed under the MIT License.
 
